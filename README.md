@@ -2,7 +2,7 @@
 
 ## Project name
 ```
-Product Counter:
+Product Storage Manager app:
 This simple webapp helps you manage your storage.
 ```
 
