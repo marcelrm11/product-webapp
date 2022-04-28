@@ -4,6 +4,7 @@
 ```
 Product Storage Manager app:
 This simple webapp helps you manage your storage.
+Built using bootstrap.
 ```
 
 ## Contact Info
